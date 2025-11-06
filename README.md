@@ -4,9 +4,9 @@ This repository showcases applied data science and analytics projects completed 
 
 ---
 
-## 🧠 Projects Overview
+##  Projects Overview
 
-### 🚚 [Eamon Express Invoice Cost Prediction](EamonExpress_InvoiceCostPrediction/)
+###  [Eamon Express Invoice Cost Prediction](EamonExpress_InvoiceCostPrediction/)
 **Tools:** R, tidyverse, glmnet, ggplot2  
 **Techniques:** Ridge Regression, Correlation Analysis, Predictive Modeling  
 
@@ -19,7 +19,7 @@ This repository showcases applied data science and analytics projects completed 
 
 ---
 
-### 🏦 [Portuguese Bank Term Deposit Prediction](PortugueseBank_TermDeposit/)
+###  [Portuguese Bank Term Deposit Prediction](PortugueseBank_TermDeposit/)
 **Tools:** R, arules, caret, dplyr  
 **Techniques:** Association Rules, Predictive Modeling, Clustering  
 
@@ -32,7 +32,7 @@ This repository showcases applied data science and analytics projects completed 
 
 ---
 
-## ⚙️ Skills & Tools
+##  Skills & Tools
 - **Languages:** R, Python, SQL  
 - **Libraries:** tidyverse, ggplot2, glmnet, arules, caret  
 - **Topics:** Regression, Machine Learning, Data Mining, Visualization  
@@ -40,7 +40,7 @@ This repository showcases applied data science and analytics projects completed 
 
 ---
 
-## 📬 Contact
+##  Contact
 **Ali Al Azzawi**  
 Business Analytics & AI | The University of Texas at Dallas  
 📧 [ali.alazzawi2@utdallas.edu]  
